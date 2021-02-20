@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Admin_panel/static/css/main.436152dd.chunk.css",
-    "main.js": "/Admin_panel/static/js/main.7ff25bfe.chunk.js",
-    "main.js.map": "/Admin_panel/static/js/main.7ff25bfe.chunk.js.map",
+    "main.css": "/Admin_panel/static/css/main.379e350e.chunk.css",
+    "main.js": "/Admin_panel/static/js/main.63404394.chunk.js",
+    "main.js.map": "/Admin_panel/static/js/main.63404394.chunk.js.map",
     "runtime-main.js": "/Admin_panel/static/js/runtime-main.0a5f3bde.js",
     "runtime-main.js.map": "/Admin_panel/static/js/runtime-main.0a5f3bde.js.map",
     "static/css/2.150d169a.chunk.css": "/Admin_panel/static/css/2.150d169a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.afddfa8f.chunk.js.map": "/Admin_panel/static/js/3.afddfa8f.chunk.js.map",
     "index.html": "/Admin_panel/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Admin_panel/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.436152dd.chunk.css.map": "/Admin_panel/static/css/main.436152dd.chunk.css.map",
+    "static/css/main.379e350e.chunk.css.map": "/Admin_panel/static/css/main.379e350e.chunk.css.map",
     "static/js/2.391234e2.chunk.js.LICENSE.txt": "/Admin_panel/static/js/2.391234e2.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Admin_panel/static/media/logo.6ce24c58.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.0a5f3bde.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.391234e2.chunk.js",
-    "static/css/main.436152dd.chunk.css",
-    "static/js/main.7ff25bfe.chunk.js"
+    "static/css/main.379e350e.chunk.css",
+    "static/js/main.63404394.chunk.js"
   ]
 }
