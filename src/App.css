@@ -6,8 +6,8 @@ header{
   font-style: italic;
 }
 h1{
-  color:rgba(0, 165, 157, 0.856);
-  font-style: italic;
+  color:rgba(0, 0, 0, 0.856);
+  font-style: bold;
 }
 
 #left{

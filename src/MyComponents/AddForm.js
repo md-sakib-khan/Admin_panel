@@ -5,6 +5,7 @@ import { Form, Button, FormGroup, FormControl, ControlLabel } from "react-bootst
 
 
 function add() {
+
     var newOrderName = document.getElementById("NewOrderName").value;
     var newUserAddress = document.getElementById("NewUserAddress").value;
     var newOrderPrice = document.getElementById("NewOrderPrice").value;
@@ -28,9 +29,9 @@ function add() {
 function AddForm() {
 
     return(
-        <Form>
+        <Form className="m-5" id = "frm">
         <Form.Group controlId="formBasicEmail">
-          <Form.Label className = "m-4">New Order</Form.Label>
+          <Form.Label className = "font-weight-bold m-4 display-4">New Order</Form.Label>
           <Form.Control  id= "NewOrderName" type="text" placeholder="Enter Product Name" />
         </Form.Group>
 
