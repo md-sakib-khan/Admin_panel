@@ -11,7 +11,6 @@ import Display from './Display'
 
 class SideBar extends Component{
 
-
     download(params) {
 
         var domToPdf = require('dom-to-pdf');

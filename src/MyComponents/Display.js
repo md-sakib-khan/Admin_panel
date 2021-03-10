@@ -10,7 +10,8 @@ class Display extends Component{
             stateCurrent : "Dashboard",
 
         }
-    updateStateHandler(event) {
+
+    updateStateHandler = (event) => {
         console.log(event.target.value)
         this.setState({stateCurrent : event.target.value})
     }
