@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Admin_panel/static/css/main.379e350e.chunk.css",
-    "main.js": "/Admin_panel/static/js/main.9c070cca.chunk.js",
-    "main.js.map": "/Admin_panel/static/js/main.9c070cca.chunk.js.map",
+    "main.js": "/Admin_panel/static/js/main.52267002.chunk.js",
+    "main.js.map": "/Admin_panel/static/js/main.52267002.chunk.js.map",
     "runtime-main.js": "/Admin_panel/static/js/runtime-main.14db8afb.js",
     "runtime-main.js.map": "/Admin_panel/static/js/runtime-main.14db8afb.js.map",
     "static/css/2.150d169a.chunk.css": "/Admin_panel/static/css/2.150d169a.chunk.css",
-    "static/js/2.5af8986e.chunk.js": "/Admin_panel/static/js/2.5af8986e.chunk.js",
-    "static/js/2.5af8986e.chunk.js.map": "/Admin_panel/static/js/2.5af8986e.chunk.js.map",
+    "static/js/2.378afb98.chunk.js": "/Admin_panel/static/js/2.378afb98.chunk.js",
+    "static/js/2.378afb98.chunk.js.map": "/Admin_panel/static/js/2.378afb98.chunk.js.map",
     "static/js/3.8fea8592.chunk.js": "/Admin_panel/static/js/3.8fea8592.chunk.js",
     "static/js/3.8fea8592.chunk.js.map": "/Admin_panel/static/js/3.8fea8592.chunk.js.map",
     "index.html": "/Admin_panel/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Admin_panel/static/css/2.150d169a.chunk.css.map",
     "static/css/main.379e350e.chunk.css.map": "/Admin_panel/static/css/main.379e350e.chunk.css.map",
-    "static/js/2.5af8986e.chunk.js.LICENSE.txt": "/Admin_panel/static/js/2.5af8986e.chunk.js.LICENSE.txt",
+    "static/js/2.378afb98.chunk.js.LICENSE.txt": "/Admin_panel/static/js/2.378afb98.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Admin_panel/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.14db8afb.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.5af8986e.chunk.js",
+    "static/js/2.378afb98.chunk.js",
     "static/css/main.379e350e.chunk.css",
-    "static/js/main.9c070cca.chunk.js"
+    "static/js/main.52267002.chunk.js"
   ]
 }
